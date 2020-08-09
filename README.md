@@ -9,3 +9,5 @@ Release 1: created at the end of part 6 of the YouTube series. Please note the i
  # Related Community Projects:
  
  OpenDog URDF/config for CHAMP: https://github.com/chvmp/opendog_description
+ 
+ 'openDog 2.1' with higher belt reductions and cooling fans: https://github.com/J-DIndustries/openDog-V2.1
