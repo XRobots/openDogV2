@@ -8,6 +8,8 @@ Release 1: created at the end of part 6 of the YouTube series. Please note the i
 
 Release 2: created at the end of part 7 of the YouTube series. Please note the issues stated during this video. Note that the remote is unchanged since release 1.
 
+Relase 3: created for part 8 of the YouTube series. Includes the modified knee motor pulley, Python and Arduino code for the deep learning model.
+
  # Related Community Projects:
  
  OpenDog URDF/config for CHAMP: https://github.com/chvmp/opendog_description
